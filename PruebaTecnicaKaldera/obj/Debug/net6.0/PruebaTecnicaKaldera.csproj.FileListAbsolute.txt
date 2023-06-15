@@ -1,0 +1,15 @@
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\bin\Debug\net6.0\PruebaTecnicaKaldera.exe
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\bin\Debug\net6.0\PruebaTecnicaKaldera.deps.json
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\bin\Debug\net6.0\PruebaTecnicaKaldera.runtimeconfig.json
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\bin\Debug\net6.0\PruebaTecnicaKaldera.dll
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\bin\Debug\net6.0\PruebaTecnicaKaldera.pdb
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\PruebaTecnicaKaldera.csproj.AssemblyReference.cache
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\PruebaTecnicaKaldera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\PruebaTecnicaKaldera.AssemblyInfoInputs.cache
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\PruebaTecnicaKaldera.AssemblyInfo.cs
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\PruebaTecnicaKaldera.csproj.CoreCompileInputs.cache
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\PruebaTecnicaKaldera.dll
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\refint\PruebaTecnicaKaldera.dll
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\PruebaTecnicaKaldera.pdb
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\PruebaTecnicaKaldera.genruntimeconfig.cache
+C:\Users\Developer Daniel\Documents\Proyectos\PruebaTecnicaKaldera\PruebaTecnicaKaldera\obj\Debug\net6.0\ref\PruebaTecnicaKaldera.dll
